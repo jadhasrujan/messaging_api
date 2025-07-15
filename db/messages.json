@@ -1,0 +1,27 @@
+{
+    "_default": {
+        "1": {
+            "room_id": "e1125c2f-b0e5-493e-b71b-f5887c159e3e",
+            "sender": "avdhut",
+            "message": "Hello!",
+            "timestamp": "2025-07-14T15:35:03.618160"
+        },
+        "2": {
+            "room_id": "e1125c2f-b0e5-493e-b71b-f5887c159e3e",
+            "sender": "jsrujan",
+            "message": "Hello!",
+            "timestamp": "2025-07-14T15:35:03.618160"
+        },
+        "3": {
+            "room_id": "53410313-3a45-48e2-ac4f-744c135d62a7",
+            "sender": "avdhut",
+            "message": "Hello!",
+            "is_group": true,
+            "group_name": [
+                "avdhut",
+                "padmaja"
+            ],
+            "timestamp": "2025-07-15T16:24:19.294981"
+        }
+    }
+}
